@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8445c4c2-5f97-40a6-92d4-1b4559e882ad" name="Default Changelist" comment="" />
+    <list default="true" id="8445c4c2-5f97-40a6-92d4-1b4559e882ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/[branding]/landing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/oe_onboarding/[branding]/landing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/onboarding/[branding]/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/__tests__/footer.component.spec.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/__tests__/main.component.spec.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/__tests__/main.component.spec.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cOw1uq9xvMS6IiMmwZ2VGJdxkG" />
   <component name="ProjectViewState">
@@ -15,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -24,15 +37,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="Z:\linux\learn-next\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Work\nextjs-starter\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\nextjs-starter\pages\oe_onboarding\[branding]" />
+      <recent name="C:\Work\nextjs-starter\pages\onboarding\[branding]" />
       <recent name="Z:\linux\learn-next\src\components\main\__tests__" />
       <recent name="Z:\linux\learn-next\src\routes\sample" />
       <recent name="Z:\linux\learn-next\src\routes\main" />
-      <recent name="Z:\linux\learn-next\pages\posts" />
-      <recent name="Z:\linux\learn-next\src\routes" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -60,6 +73,8 @@
       <workItem from="1590412745058" duration="1722000" />
       <workItem from="1590414555176" duration="10613000" />
       <workItem from="1590458615018" duration="8567000" />
+      <workItem from="1590488299048" duration="12530000" />
+      <workItem from="1590767392019" duration="7000" />
     </task>
     <servers />
   </component>
@@ -67,9 +82,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="524" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590508893376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590508893376" />
     <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1590425145966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590425145966" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590508545979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590508545979" />
   </component>
 </project>

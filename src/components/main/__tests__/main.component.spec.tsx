@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import {shallow, configure} from 'enzyme';
 import MainComponent from "../main.component";
 import Link from "next/link";
